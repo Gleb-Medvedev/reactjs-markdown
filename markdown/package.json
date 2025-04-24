@@ -15,6 +15,8 @@
     "@mui/icons-material": "^7.0.2",
     "@mui/material": "^7.0.2",
     "draft-js": "^0.11.7",
+    "draft-js-export-markdown": "^1.4.0",
+    "draft-js-import-markdown": "^1.4.1",
     "draft-js-inline-toolbar-plugin": "^3.0.1",
     "draft-js-plugins-editor": "^3.0.0",
     "react": "^19.1.0",

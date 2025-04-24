@@ -1,0 +1,27 @@
+.block-depth-0 {
+    margin-left: 0px;
+}
+  
+.block-depth-1 {
+    margin-left: 20px;
+}
+
+.block-depth-2 {
+    margin-left: 40px;
+}
+.block-depth-3 {
+    margin-left: 60px;
+}
+.block-depth-4 {
+    margin-left: 80px;
+}
+
+.align-left {
+    text-align: left;
+  }
+  .align-center {
+    text-align: center;
+  }
+  .align-right {
+    text-align: right;
+  }
